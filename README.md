@@ -1,5 +1,5 @@
 # technoverlay
-This is the overlay for the Technoblade r/place art that I made. Technoblade never dies!
+This is the overlay for the Technoblade r/place art and the big Technoblade art in the expansion. Technoblade never dies!
 
 ----
 
@@ -10,7 +10,7 @@ https://violentmonkey.github.io/get-it/
 
 2️⃣ Step 2:
 Install this script: 
-https://raw.githubusercontent.com/TruMiner/technoverlay/main/technoblade%20never%20dies.user.js (its the same script thats in the repository above)
+https://github.com/TruMiner/technoverlay/raw/main/technoblade%20never%20dies%202.user.js (if you want the old script, you can get the old one above)
 
 
 ➡️ Once done, your /r/place canvas should display colored dots in the center of pixels that are miscolored according to /r/technoblade's templates. The outside color is the actual pixel color, the inside color is the desired pixel color.
