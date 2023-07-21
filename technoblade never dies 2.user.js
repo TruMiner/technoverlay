@@ -22,8 +22,8 @@ if (window.top !== window.self) {
         .appendChild(
           (function () {
               const img = document.createElement("img");
-              img.src = "https://raw.githubusercontent.com/TruMiner/technoverlay/main/images/current.png";
-              img.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+              img.src = "https://raw.githubusercontent.com/TruMiner/technoverlay/main/images/current2.png";
+              img.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1500px;height: 1000px;";
               console.log(img);
               return img;
           })())
