@@ -1,6 +1,8 @@
 # technoverlay
 This is the overlay for the Technoblade r/place art and the big Technoblade art in the expansion. Technoblade never dies!
 
+⚠️ UPDATE: refresh the page to see the new colors. if that doesn't work, try restarting your browser and if that doesn't work, try reinstalling it.
+
 ----
 
 ### HOW TO INSTALL THE /R/TECHNOBLADE OVERLAY SCRIPT:
